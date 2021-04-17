@@ -1,0 +1,19 @@
+{
+  "name": "employee-directory-tracker",
+  "version": "1.0.0",
+  "description": "Use this database to manage your employees. Assign them new managers when needed. Add new employees when necessary and remove old ones when not needed. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kofihayford/employeetracker.git"
+  },
+  "author": "Kofi Hayford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kofihayford/employeetracker/issues"
+  },
+  "homepage": "https://github.com/kofihayford/employeetracker#readme"
+}
