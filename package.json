@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/kofihayford/employeetracker/issues"
   },
-  "homepage": "https://github.com/kofihayford/employeetracker#readme"
+  "homepage": "https://github.com/kofihayford/employeetracker#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
 }
